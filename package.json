@@ -9,7 +9,7 @@
 		"yarn": "^1.2.1"
 	},
 	"dependencies": {
-		"bignumber.js": "^6.0.0",
+		"bignumber.js": "^9.1.2",
 		"ganache-cli": "^6.0.3",
 		"truffle": "^4.0.6"
 	}
